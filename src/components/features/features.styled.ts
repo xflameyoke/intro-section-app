@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const FeaturesStyled = styled.div`
   position: absolute;
-  top: 80px;
-  left: 60px;
+  top: 120px;
+  left: 180px;
   height: 150px;
   width: 150px;
   border-radius: 15px;
@@ -21,4 +21,10 @@ export const FeaturesStyled = styled.div`
   li {
     padding: 5px;
   }
+`;
+
+export const FeaturesIcon = styled.img`
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
 `;

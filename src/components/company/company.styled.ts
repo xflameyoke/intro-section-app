@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const CompanyStyled = styled.div`
   position: absolute;
-  top: 80px;
-  left: 250px;
+  top: 120px;
+  left: 380px;
   height: 150px;
   width: 100px;
   border-radius: 15px;
