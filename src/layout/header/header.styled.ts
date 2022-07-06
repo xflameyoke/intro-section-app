@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const HeaderStyled = styled.header`
   width: 100vw;
   height: 50px;
-  padding: 80px;
+  margin: 40px 0px 0px 80px;
   display: grid;
   grid-template-columns: 0.25fr 1fr 0.5fr 0.5fr;
   grid-template-rows: 20px;
