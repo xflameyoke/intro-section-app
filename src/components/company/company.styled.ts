@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const CompanyStyled = styled.div`
   position: absolute;
-  top: 120px;
+  top: 80px;
   left: 380px;
   height: 150px;
   width: 100px;
@@ -20,5 +20,6 @@ export const CompanyStyled = styled.div`
 
   li {
     padding: 5px;
+    cursor: pointer;
   }
 `;

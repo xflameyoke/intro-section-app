@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const FeaturesStyled = styled.div`
   position: absolute;
-  top: 120px;
+  top: 80px;
   left: 180px;
   height: 150px;
   width: 150px;
@@ -20,6 +20,7 @@ export const FeaturesStyled = styled.div`
 
   li {
     padding: 5px;
+    cursor: pointer;
   }
 `;
 

@@ -6,4 +6,5 @@ export const FooterStyled = styled.footer`
   justify-content: center;
   font-size: 12px;
   color: grey;
+  padding: 10px;
 `;
