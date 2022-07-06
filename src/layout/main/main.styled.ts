@@ -15,6 +15,13 @@ export const MainLeft = styled.div`
   margin-right: 100px;
 `;
 
+export const MainRight = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+`;
+
 export const MainHeader = styled.h1`
   display: grid;
   grid-template-rows: 1fr 1fr;
@@ -22,9 +29,10 @@ export const MainHeader = styled.h1`
 `;
 
 export const MainQuote = styled.p`
-  width: 350px;
+  width: 400px;
   margin: -20px 0 60px 0;
   color: grey;
+  font-size: 18px;
 `;
 export const MainIcon = styled.img`
   width: 100px;
@@ -40,6 +48,12 @@ export const MainButton = styled.button`
   background: white;
   font-weight: bold;
   font-size: 16px;
+  cursor: pointer;
+
+  &:hover {
+    color: white;
+    background: black;
+  }
 `;
 
 export const MainHero = styled.img`

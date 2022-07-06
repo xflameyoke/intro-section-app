@@ -7,6 +7,7 @@ import {
   MainIcon,
   MainLeft,
   MainQuote,
+  MainRight,
   MainStyled,
 } from './main.styled';
 import HeroDesktop from '../../assets/images/image-hero-desktop.png';
@@ -32,11 +33,9 @@ const Main = () => (
         <MainIcon src={ClientMaker} alt="ClientMaker" />
       </MainClients>
     </MainLeft>
-    <div>
-      <div>
-        <MainHero src={HeroDesktop} alt="HeroDesktop" />
-      </div>
-    </div>
+    <MainRight>
+      <MainHero src={HeroDesktop} alt="HeroDesktop" />
+    </MainRight>
   </MainStyled>
 );
 
