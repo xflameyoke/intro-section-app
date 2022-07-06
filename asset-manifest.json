@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/intro-section-app/static/css/main.e6c13ad2.css",
+    "main.js": "/intro-section-app/static/js/main.86084462.js",
+    "static/js/787.c9f06e17.chunk.js": "/intro-section-app/static/js/787.c9f06e17.chunk.js",
+    "static/media/image-hero-desktop.png": "/intro-section-app/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/client-databiz.svg": "/intro-section-app/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
+    "static/media/logo.svg": "/intro-section-app/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
+    "static/media/client-maker.svg": "/intro-section-app/static/media/client-maker.3859368b1ba7e579d814353870c9edb0.svg",
+    "static/media/client-meet.svg": "/intro-section-app/static/media/client-meet.2d6ffbad4108ea24377c66fe7655736e.svg",
+    "static/media/client-audiophile.svg": "/intro-section-app/static/media/client-audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "index.html": "/intro-section-app/index.html",
+    "static/media/icon-reminders.svg": "/intro-section-app/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
+    "static/media/icon-planning.svg": "/intro-section-app/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
+    "static/media/icon-calendar.svg": "/intro-section-app/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
+    "static/media/icon-todo.svg": "/intro-section-app/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
+    "static/media/icon-arrow-down.svg": "/intro-section-app/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
+    "static/media/icon-arrow-up.svg": "/intro-section-app/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
+    "main.e6c13ad2.css.map": "/intro-section-app/static/css/main.e6c13ad2.css.map",
+    "main.86084462.js.map": "/intro-section-app/static/js/main.86084462.js.map",
+    "787.c9f06e17.chunk.js.map": "/intro-section-app/static/js/787.c9f06e17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.86084462.js"
+  ]
+}
