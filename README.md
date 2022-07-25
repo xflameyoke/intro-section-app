@@ -1,13 +1,13 @@
 # Interactive comments section
 
-![](.src/assets/interactive-screenshot.png)
+![](src/assets/interactive-screenshot.png)
 
 ## The challenge
 - build intro section with dropdown navigation and make it looking as close to the design as possible
 
 ### Information
 
-- this is a solution to the [Interactive comments section challenge from Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
+- this is a solution to the [Intro section with dropdown navigation](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
 
 ## Links 
 
